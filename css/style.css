@@ -1,0 +1,14 @@
+body {
+    margin: 0 auto;
+    border: 1px solid black;
+    width: 700px;
+}
+
+div {
+    margin: 20px;
+}
+
+table, tr, th, td, caption {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid black;
+}
